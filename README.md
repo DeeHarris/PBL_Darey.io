@@ -1,2 +1,2 @@
 # PBL_Darey.io
-My DevOps Journey / Projects
+My DevOps Journey / Project 1 (LAMP Stack Implementation)
