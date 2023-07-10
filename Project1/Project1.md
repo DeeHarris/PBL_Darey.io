@@ -50,7 +50,9 @@ Then, I tried logging into my msql server using the root user password
 
 ### As I have come to learn, in this step, there are 3 installations to make
 1). The PHP package itself
+
 2). A PHP-MYSQL package - the php module that allows it to communicate with the mysql-based database
+
 3). LIBAPACHE2-MOD-PHP - to enable my web sever (Apache) to handle PHP files
 
 ### Now, to get into it proper; I run the command to install all 3 packages at same time ('sudo apt install php libapache2-mod-php php-mysql')
