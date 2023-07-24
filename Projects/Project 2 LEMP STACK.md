@@ -86,7 +86,7 @@ Second, I created a new user called "lemp_user" and then granted them full privi
 
 <img width="184" alt="image" src="https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/e261f63e-4ec4-435c-9bf7-f85dcfbc88a0">
 
-### Now, I created a test table called 'lemptodo_list' and added content to it
+### Now, I created a test table called 'lemp_list' and added content to it
 
 <img width="304" alt="image" src="https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/c73a8d90-ab3b-4721-b7c8-2f89f76edf7c">
 
