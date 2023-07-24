@@ -82,11 +82,19 @@ Then I created an index.html file to be displayed
 
 First, I created a new database called "lemp_database"
 
-Second, I created a new user called "lemp_user" and then granted them full privileges (asides creating or modifying other databases)
+![image](https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/5da1d4a8-43a3-49ce-8088-8131fdc18faf)
 
-<img width="184" alt="image" src="https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/e261f63e-4ec4-435c-9bf7-f85dcfbc88a0">
+Second, I created a new user called "lemp_user" and then granted them full privileges (asides creating or modifying other databases)
 
 ### Now, I created a test table called 'lemp_list' and added content to it
 
-<img width="304" alt="image" src="https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/c73a8d90-ab3b-4721-b7c8-2f89f76edf7c">
+![image](https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/3a9f3a0f-30d9-462f-abed-b0dc97e260dd)
+
+<img width="593" alt="image" src="https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/002ecaa9-fe9c-4d16-a7db-73a9cf0a9a32">
+
+### Finally I opened my browser and reloaded my public IP with /lemp_list.php
+
+### And I got my page 💪🎉🏅💃💥
+
+![image](https://github.com/DeeHarris/PBL_Darey.io/assets/20859155/af4de18b-7677-4561-a2b1-31259d67d5cd)
 
